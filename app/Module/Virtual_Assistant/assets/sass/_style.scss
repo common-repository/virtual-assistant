@@ -1,0 +1,24 @@
+@import "popup";
+#skitt-listening-box {
+    display: flex !important;
+}
+#skitt-ui {
+    z-index: 9999 !important;
+} 
+.wpsg_raiting{
+    display: inline-block;
+    .wpsg_content_star{
+        display: inline-block;
+        a{
+            text-decoration: none;
+            cursor: pointer;
+            color: rgb(255, 218, 11);
+            padding: 1px;
+            display: inline-block;
+            font-size: 16px;
+            &:hover ~ a{
+                color: rgb(102, 102, 102);
+            }
+        }
+    }
+}

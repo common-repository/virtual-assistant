@@ -1,0 +1,1233 @@
+# Copyright (C) 2023 Simple Todo
+# This file is distributed under the same license as the Simple Todo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Todo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-12 20:13+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../app/Model/DB_Model.php:64, ../app/Model/DB_Model.php:126, ../app/Model/DB_Model.php:167
+msgid "The resource ID is required."
+msgstr ""
+
+#: ../app/Model/DB_Model.php:75
+msgid "Could not find the resource."
+msgstr ""
+
+#: ../app/Model/DB_Model.php:109
+msgid "Could not create the resource."
+msgstr ""
+
+#: ../app/Model/DB_Model.php:136
+msgid "The resource not found."
+msgstr ""
+
+#: ../app/Model/DB_Model.php:150
+msgid "Could not update the resource."
+msgstr ""
+
+#: ../app/Model/DB_Model.php:177
+msgid "Could not delete the resource."
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:171
+msgid "Monday"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:172
+msgid "Tuesday"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:173
+msgid "Wednesday"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:174
+msgid "Thursday"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:175
+msgid "Friday"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:176
+msgid "Saturday"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:177
+msgid "Sunday"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:182
+msgid "January"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:183
+msgid "February"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:184
+msgid "March"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:185
+msgid "April"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:186
+msgid "May"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:187
+msgid "June"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:188
+msgid "July"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:189
+msgid "August"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:190
+msgid "September"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:191
+msgid "October"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:192
+msgid "November"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/Eva_Final_Class.php:193
+msgid "December"
+msgstr ""
+
+#: ../app/Module/Core/Admin/Admin_Menu.php:14, ../app/Module/Core/Admin/Admin_Menu.php:14, ../app/Module/Virtual_Assistant/includes/posttypes.class.php:53, ../app/Module/Virtual_Assistant/includes/posttypes.class.php:54, ../app/Module/Virtual_Assistant/includes/posttypes.class.php:68, ../app/Module/Virtual_Assistant/includes/posttypes.class.php:69
+msgid "Virtual Assistant"
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Base.php:52
+msgid "Operation Successful"
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Base.php:52
+msgid "Operation Failed"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/index.php:43
+msgid "Clear"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/index.php:44
+msgid "Clear color"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/index.php:45, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:98, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:205, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:246, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:318, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:348, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:390, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:436, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:452, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:555, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:570, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:590, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:605, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:667, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:738, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:844
+msgid "Default"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/index.php:46
+msgid "Select default color"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/index.php:47
+msgid "Select Color"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/index.php:48
+msgid "Color value"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:51, ../app/Module/Virtual_Assistant/includes/posttypes.class.php:52
+msgctxt "Virtual Assistant"
+msgid "Virtual Assistant"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:55
+msgid "Parent Menu:"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:56
+msgid "All Virtual Assistants"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:57
+msgid "Add New Virtual Assistant"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:58, ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:146
+msgid "Add New"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:59
+msgid "New Virtual Assistant"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:60
+msgid "Edit Virtual Assistant"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:61
+msgid "Update Virtual Assistant"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:62
+msgid "View Virtual Assistant"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:63
+msgid "Search Virtual Assistant"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:64
+msgid "Not found"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/posttypes.class.php:65
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:38
+msgid "New user email address."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:42
+msgid "New user username."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:47
+msgid "New user password."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:58, ../app/Module/Core/Rest_API/Version_1/Users.php:721
+msgid "Unique identifier for the resource."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:84
+msgid "Required to be true, as resource does not support trashing."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:89
+msgid "ID to reassign posts to."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:197
+msgid "Cannot create existing resource."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:294, ../app/Module/Core/Rest_API/Version_1/Users.php:314
+msgid "Invalid resource ID."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:318
+msgid "Email address is invalid."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:322
+msgid "Username isn't editable."
+msgstr ""
+
+#. translators: %s: force=true
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:381
+msgid "Users do not support trashing. Set '%s' to delete."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:388
+msgid "Invalid resource id."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:393
+msgid "Invalid resource id for reassignment."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:408
+msgid "The resource cannot be deleted."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:602
+msgid "Sorry, you cannot list resources."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:621
+msgid "Sorry, you are not allowed to create resources."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:640
+msgid "Sorry, you cannot view this resource."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:659
+msgid "Sorry, you are not allowed to edit this resource."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:678
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:700
+msgid "Resource does not exist."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:727
+msgid "The date the user was created, as GMT."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:734
+msgid "The display name for the user."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:739
+msgid "User login name."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:747
+msgid "The nickname for the user."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:752
+msgid "User first name."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:760
+msgid "User last name."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:768
+msgid "Description of the user."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:773
+msgid "The email address for the user."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:779
+msgid "User password."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:784
+msgid "User avater image data."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:789
+msgid "Image ID."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:794
+msgid "The date the image was created, in the site's timezone."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:800
+msgid "The date the image was created, as GMT."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:806
+msgid "The date the image was last modified, in the site's timezone."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:812
+msgid "The date the image was last modified, as GMT."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:818
+msgid "Image URL."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:853
+msgid "Ensure result set excludes specific IDs."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:862
+msgid "Limit result set to specific IDs."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:871
+msgid "Offset the result set by a specific number of items."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:878
+msgid "Order sort attribute ascending or descending."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:886
+msgid "Sort collection by object attribute."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:893
+msgid "Limit result set to resources with a specific email."
+msgstr ""
+
+#: ../app/Module/Core/Rest_API/Version_1/Users.php:899
+msgid "Limit result set to resources with a specific role."
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:163, ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:236
+msgid "Type-field is not exists"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:259
+msgid "Save Changes"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:298, ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:288, ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:379, ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:407, ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:397
+msgid "Error"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:299, ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:289, ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:380
+msgid "Fail! can not save data"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:309, ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:421
+msgid "Saved"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:310, ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:422
+msgid "Everything saved"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:345
+msgid "Slug exists"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:346
+msgid "Please choose other slug"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:408, ../app/Module/Virtual_Assistant/bestbugcore/classes/options.class.php:398
+msgid "Fail! can not save meta data"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/about.class.php:62, ../app/Module/Virtual_Assistant/includes/admin/about.class.php:63, ../app/Module/Virtual_Assistant/includes/admin/about.class.php:63
+msgid "About"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:69, ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:530
+msgid "General"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:70
+msgid "Product License"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:73, ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:490, ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:503, ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:534
+msgid ""
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:77
+msgid "Purchase code"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:99
+msgid "Text Instruction"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:102
+msgid "Default is Say something..."
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:110
+msgid "Speak Instruction"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:113
+msgid "Speak after clients load this site"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:121
+msgid "Virtual Assistant voice"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:188
+msgid "Voice Virtual Assistant will say"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:196
+msgid "Language Speak in"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:280
+msgid "Set the language the user will speak in. If this method is not called, defaults to en-US."
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:288
+msgid "Main Color"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:298
+msgid "Secondary Color"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:308, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:159
+msgid "Text Color"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/options.class.php:318
+msgid "Enable in Backend"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:120, ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:121
+msgid "All Commands"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:149
+msgid "Delete Command(s)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:177
+msgid "Voice Command (*)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:180
+msgid "Just enter your text client will say."
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:188
+msgid "Activity"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:190, ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:4
+msgid "Speak"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:191, ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:5
+msgid "Read"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:192, ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:6
+msgid "Go to link"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:193, ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:349, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:606, ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:7
+msgid "Scroll"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:194, ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:8
+msgid "Add To Cart (Woocommerce)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:195, ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:9
+msgid "Time"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:196
+msgid "Click"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:197, ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:356, ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:10
+msgid "Custom"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:201
+msgid "Choose activity to Virtual Assistant do."
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:212
+msgid "Speak Content (*)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:215
+msgid "The content Virtual Assistant will say."
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:227
+msgid "Get from ChatGTP"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:242
+msgid "Time Speak Content (*)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:260, ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:387, ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:405
+msgid "Element Selector (*)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:278
+msgid "Link URL (*)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:293
+msgid "Target"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:295
+msgid "Current Tab"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:296
+msgid "New Tab"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:297
+msgid "New Window"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:312
+msgid "Spacing"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:314
+msgid "Keep spacing between each words"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:315
+msgid "Remove all spacing"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:316
+msgid "Replace all spacing"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:331
+msgid "Replace to"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:334
+msgid "Characters you want use to replace all spacing"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:351, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:472, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:506, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:635, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:855
+msgid "Top"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:352, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:484, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:518, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:647, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:867
+msgid "Bottom"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:353
+msgid "Middle"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:354
+msgid "Up"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:355
+msgid "Down"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:357
+msgid "To Element"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:372
+msgid "Space Scrolling"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:423
+msgid "Product ID"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:426
+msgid "Enter Product ID"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:441
+msgid "Custom JS"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:448, ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:462
+msgid "The content Virtual Assistant will say finally."
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:459
+msgid "Speak Content Finally"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:473
+msgid "Show on Popup"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:487
+msgid "Title"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:500
+msgid "Description"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:527
+msgid "Dark theme"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/virtual_assistant.class.php:531
+msgid "Bubble"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/shortcodes/shortcode.php:66
+msgid "Ultimate Crypto Widgets"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/shortcodes/shortcode.php:70
+msgid "Display Ultimate Crypto Widgets Shortcode"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/shortcodes/shortcode.php:71
+msgid "by %s"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/shortcodes/shortcode.php:75
+msgid "Choose Ultimate Crypto Widgets Shortcode"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/shortcodes/shortcode.php:95
+msgid "Not found the shortcode!"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:99, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:668
+msgid "Dotted"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:100, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:669
+msgid "Dashed"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:101, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:670
+msgid "Solid"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:102, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:671
+msgid "Double"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:103, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:672
+msgid "Groove"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:104, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:673
+msgid "Ridge"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:105, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:354, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:396, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:674, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:756
+msgid "None"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:106, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:675
+msgid "Hidden"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:107, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:676
+msgid "Inset"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:108, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:677
+msgid "Outset"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:109, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:442, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:456, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:561, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:595, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:609, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:678, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:757, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:850
+msgid "Initial"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:110, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:443, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:457, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:596, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:610, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:679, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:758, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:851
+msgid "Inherit"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:116, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:700
+msgid "TopLeft"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:124, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:706
+msgid "TopRight"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:132, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:712
+msgid "BottomRight"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:140, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:718
+msgid "BottomLeft"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:156, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:898
+msgid "Text"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:161
+msgid "Text color"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:168, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:169
+msgid "Font family"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:176, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:177
+msgid "Font size"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:182, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:183
+msgid "Line height"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:188, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:189
+msgid "Letter spacing"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:197, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:199
+msgid "Text align"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:211, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:490, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:524, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:653, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:873
+msgid "Left"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:217
+msgid "Center"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:223, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:478, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:512, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:641, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:861
+msgid "Right"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:229
+msgid "Justify"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:239, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:241
+msgid "Font weight"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:252
+msgid "Thin - Hairline (100)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:258
+msgid "Extra Light - Ultra Light (200)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:264
+msgid "Light (300)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:270
+msgid "Normal (400)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:276
+msgid "Medium (500)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:282
+msgid "Semi Bold - Demi Bold (600)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:288
+msgid "Bold (700)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:294
+msgid "Extra Bold - Ultra Bold (800)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:300
+msgid "Black - Heavy (900)"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:310, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:312
+msgid "Font style"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:324, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:437
+msgid "Normal"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:330
+msgid "Italic"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:340, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:342
+msgid "Text transform"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:360
+msgid "Uppercase"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:366
+msgid "Lowercase"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:372
+msgid "Capitalize"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:382, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:384
+msgid "Text decoration"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:402
+msgid "Overline"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:408
+msgid "Underline"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:414
+msgid "Line through"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:425, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:426
+msgid "Word spacing"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:431, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:433
+msgid "White space"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:438
+msgid "Nowrap"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:439
+msgid "Pre"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:440
+msgid "Pre-line"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:441
+msgid "Pre-wrap"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:447, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:449
+msgid "Text overflow"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:453
+msgid "Clip"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:454
+msgid "Ellipsis"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:455
+msgid "String"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:469
+msgid "Padding"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:503
+msgid "Margin"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:537
+msgid "Background"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:550, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:552
+msgid "Background Size"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:556
+msgid "Auto"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:557
+msgid "50%"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:558
+msgid "100% 100%"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:559
+msgid "Cover"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:560
+msgid "Contain"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:565, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:567
+msgid "Background Position"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:571
+msgid "Left top"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:572
+msgid "Left center"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:573
+msgid "Left bottom"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:574
+msgid "Right top"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:575
+msgid "Right center"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:576
+msgid "Right bottom"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:577
+msgid "Center top"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:578
+msgid "Center center"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:579
+msgid "Center bottom"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:585, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:587
+msgid "Background Repeat"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:591
+msgid "Repeat"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:592
+msgid "Repeat-x"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:593
+msgid "Repeat-y"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:594
+msgid "No-repeat"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:600, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:602
+msgid "Background Attachment"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:607, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:847
+msgid "Fixed"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:608
+msgid "Local"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:615, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:617
+msgid "Background Color"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:632
+msgid "Border"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:662
+msgid "Style"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:664
+msgid "Border Style"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:683
+msgid "Color"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:685
+msgid "Border Color"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:697
+msgid "Border radius"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:731, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:734
+msgid "Display"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:739
+msgid "Inline"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:740
+msgid "Block"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:741
+msgid "Flex"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:742
+msgid "Inline-block"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:743
+msgid "Inline-flex"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:744
+msgid "Inline-table"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:745
+msgid "List-item"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:746
+msgid "Run-in"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:747
+msgid "Table"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:748
+msgid "Table-caption"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:749
+msgid "Table-column-group"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:750
+msgid "Table-header-group"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:751
+msgid "Table-footer-group"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:752
+msgid "Table-row-group"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:753
+msgid "Table-cell"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:754
+msgid "Table-column"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:755
+msgid "Table-row"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:769
+msgid "Width & Height"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:772
+msgid "Width"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:778
+msgid "Height"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:791
+msgid "Max Width & Max Height"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:794
+msgid "Max Width"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:800
+msgid "Max Height"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:837, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:840
+msgid "Position"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:845
+msgid "Static"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:846
+msgid "Absolute"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:848
+msgid "Relative"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:849
+msgid "Sticky"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:886, ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:889
+msgid "Selector"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:894
+msgid "Example selector"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:895
+msgid "All childs"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:896
+msgid "Heading"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:897
+msgid "Blockquote"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:899
+msgid "Block Content"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:900
+msgid "List"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:901
+msgid "Link"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/bestbugcore/extend/vc-params/responsive.class.php:902
+msgid "Read more"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:17
+msgid "ID"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:18
+msgid "Voice Command"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:19
+msgid "Ativity"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:20
+msgid "Action"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:36
+msgid "Edit"
+msgstr ""
+
+#: ../app/Module/Virtual_Assistant/includes/admin/templates/virtual_assistant.view.php:39
+msgid "Delete"
+msgstr ""
+
+#: ../app.php:70, ../app.php:79
+msgid "Cheatin&#8217; huh?"
+msgstr ""
